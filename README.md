@@ -1,7 +1,7 @@
 # clothing-store-clone
 A fully responsive and animated eCommerce website (ShopEase) built with HTML and CSS. Includes homepage, product listings, categories, cart, and login page.
 
-                                                                                ShopEase - eCommerce Website
+ShopEase - eCommerce Website
 
 ShopEase is a fully responsive and animated eCommerce website built using pure **HTML** and **CSS**. This project was developed as part of my **final year project**. It includes a modern homepage, featured product section, category browsing, login system, and a responsive cart page with clean UI/UX.
 
